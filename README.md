@@ -1,4 +1,4 @@
-# X-Clone (Twitter Sidebar & Feed) 🚀
+# X-Clone 🚀
 
 A fully responsive clone of the X (Twitter) built with **HTML** and **Tailwind CSS**. This project focuses on modern UI/UX, mobile-first design.
 
